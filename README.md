@@ -1,4 +1,5 @@
-# gstevens0884.github.io
+# Square Fit (PWA)
+
 A static site: no build step, no dependencies. Put the folder on any HTTPS host and it becomes installable.
 
 ## Files
@@ -38,3 +39,4 @@ If you rename or add files, also change `CACHE` at the top of `sw.js` (for examp
 ## Notes
 - Your photos never leave the device. Presets and settings are saved in the browser's local storage on that device.
 - Browsers can clear local storage for sites you have not opened in a long while. Installed apps are generally kept.
+
